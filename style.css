@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Merriweather', serif;   
+    background-color:#F2FFE9;
+}
+
+.navbar {
+    display: flex;
+    align-items: centre;
+    justify-content: space-between;
+}
+
+.navbar__brand{
+    width: 100px;
+}
+ 
+.navbar__logo{
+    width: 100%;
+}
+
+.navbar_-nav-_items {
+    background-color:black;
+}
